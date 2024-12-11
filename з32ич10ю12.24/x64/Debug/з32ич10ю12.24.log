@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(132,41): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(136,36): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(192,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(218,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(224,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp\type_wrapper.h(249,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\src\vcpkg\installed\x64-windows\include\sqlite_modern_cpp.h(115,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  з32ич10ю12.24.vcxproj -> C:\Users\User\source\repos\з32ич10ю12.24\x64\Debug\з32ич10ю12.24.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
